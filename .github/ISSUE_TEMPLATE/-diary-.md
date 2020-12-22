@@ -1,7 +1,7 @@
 ---
 name: "[Diary]"
 about: 오늘 하루 일과를 나열하듯 편하게 적어보세요.
-title: "[name]-년 월 일"
+title: "[name] - 년 월 일"
 labels: Diary
 assignees: ''
 
